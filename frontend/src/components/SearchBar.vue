@@ -56,6 +56,6 @@ export default {
   font-family: "Lato", "Avenir", sans-serif;
   min-width: 600px;
   max-width: 600px;
-  margin: 50px;
+  margin: 120px;
 }
 </style>

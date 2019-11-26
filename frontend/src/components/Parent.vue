@@ -1,4 +1,4 @@
-<template>
+<template class="bg">
   <div class="search">
     <SearchBar :db="type1"></SearchBar>
     <SearchBar :db="type2"></SearchBar>
@@ -21,6 +21,6 @@ export default {
 <style>
 .search {
   display: flex;
-
 }
+
 </style>
